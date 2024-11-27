@@ -7,7 +7,8 @@
 В рамках данной работы сделано следующее: 
 - Как датасет выглядел в начале работы
 <img width="1351" alt="Screenshot 2024-11-27 at 22 32 18" src="https://github.com/user-attachments/assets/a2cd286f-61d9-471b-9469-fa1b3a3ea105">
-- Построил дашборд в ydata_profiling, html для скачивания доступен по ссылке: https://github.com/terrylimax/AI-DZ1/blob/main/profiling_report.html  
+- Построил дашборд в ydata_profiling, html для скачивания доступен по ссылке: https://github.com/terrylimax/AI-DZ1/blob/main/profiling_report.html
+  
   ![image](https://github.com/user-attachments/assets/48a33489-59fb-420f-bed0-44ae6c4729ed)
 - Перед тем как избавиться от пустых значений, обработал столбцы torque, mileage', 'engine', 'max_power'  
     - torque - с помощью регулярного выражения преобразовал в столбцы nm(Ньютон-метр, единица измерения крутящего момента), rpm(обороты в минуту), kgm(устаревшая единица измерения крутящего момента)  
