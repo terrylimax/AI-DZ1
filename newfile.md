@@ -11,10 +11,13 @@
   
   ![image](https://github.com/user-attachments/assets/48a33489-59fb-420f-bed0-44ae6c4729ed)
 - Перед тем как избавиться от пустых значений, обработал столбцы torque, mileage', 'engine', 'max_power'  
-    - torque - с помощью регулярного выражения преобразовал в столбцы nm(Ньютон-метр, единица измерения крутящего момента), rpm(обороты в минуту), kgm(устаревшая единица измерения крутящего момента)  
+    - torque - с помощью регулярного выражения преобразовал в столбцы nm(Ньютон-метр, единица измерения крутящего момента), rpm(обороты в минуту), kgm(устаревшая единица измерения крутящего момента)
+      
   ![Screenshot 2024-11-27 at 22 40 36](https://github.com/user-attachments/assets/653bc0a5-2e06-4f72-a070-cd4a294336ce)
+  
   ![image](https://github.com/user-attachments/assets/ac18b4ec-eb07-47bd-8011-12f583ed82e7)
-    - отфильтровал mileage, engine, max_power  
+    - отфильтровал mileage, engine, max_power
+      
   ![image](https://github.com/user-attachments/assets/097f0a41-398d-485f-be81-46e3320d7c3b)
     - 
 - вывел описательные статистики
