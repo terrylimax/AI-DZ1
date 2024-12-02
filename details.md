@@ -37,7 +37,7 @@
 - Применил One Hot Encoding к категориальным признакам, перебрал Ridge модели с помощью GridSearch, MSE R^2 заметно улучшились
 - Создал бизнесовую кастомную метрику с долей объектов, для которых спрогнозированная цена в пределах 10% от реальной - по кол-ву процентов Lasso выигрывает, но я бы протестировал еще на других датасетах
 
-- скрины работы сервиса (файл [сервиса](https://github.com/terrylimax/AI-DZ1/blob/main/fastapi_app.py))
+h2.скрины работы сервиса (файл [сервиса](https://github.com/terrylimax/AI-DZ1/blob/main/fastapi_app.py))
 ![Screenshot 2024-12-03 at 00 17 43](https://github.com/user-attachments/assets/5ee6b9f0-754d-4126-b49a-47152252174e)
 1. на вход в формате json подаются признаки одного объекта, на выходе сервис выдает предсказанную стоимость машины
 ![Screenshot 2024-12-03 at 00 18 15](https://github.com/user-attachments/assets/544ba9bb-06df-47eb-acc0-9f4c1f2d7390)
