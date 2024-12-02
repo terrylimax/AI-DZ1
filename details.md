@@ -46,9 +46,12 @@
 
 Загружаем X_test
 ![Screenshot 2024-12-03 at 00 19 24](https://github.com/user-attachments/assets/7657093c-2d4a-42a1-a7d8-ea1b76163ef5)
+
 Выгружаем результат
 ![Screenshot 2024-12-03 at 00 20 20](https://github.com/user-attachments/assets/5fdcfe28-49fc-4659-814f-8264a69bc72e)
+
 Смотрим результат в Jupyter
+
 ![Screenshot 2024-12-03 at 00 22 47](https://github.com/user-attachments/assets/5413fd7d-31e3-47aa-b355-ea1352167b52)
 
 Что не смог
